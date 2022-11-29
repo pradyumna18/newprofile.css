@@ -1,0 +1,57 @@
+.container{
+  height:800px;
+  border-radius:20px;
+  background-color:pink;
+}
+.image1{
+  position: relative;
+  width:385px;
+  top:90px;
+  left:410px;
+}
+.sidecontainer{
+  background-color:white;
+  position: absolute;
+  height:579px;
+  width:370px;
+  left:800px;
+  bottom:133px;
+}
+.title{
+  position: relative;
+  left:820px;
+  bottom:490px;
+  font-family: 'Montserrat', sans-serif;
+  color:gray;
+}
+.productname{
+  position: relative;
+  left:820px;
+  bottom:490px;
+  font-size:40px;
+  font-family: 'Comforter Brush', cursive;
+}
+.productinfo{
+  position: relative;
+  left:820px;
+  bottom:500px;
+  font-family: 'Amatic SC', cursive;
+  color:gray;
+}
+.price{
+  position: relative;
+  left: 820px;
+  bottom:520px;
+  font-size:55px;
+  color:orange;
+  font-family: 'Noto Sans Mono', monospace;
+}
+.BUTTON{
+  position: absolute;
+  left: 830px;
+  bottom:160px;
+  background-color:green;
+  color:skyblue;
+  width:10%;
+  height:5%;
+}
